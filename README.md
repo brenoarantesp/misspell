@@ -18,3 +18,7 @@ Find one misspell on any of the lessons, projects or exercises and create a pull
 1.2. Correct the misspelling of the lesson.
 
 1.3. Finally, click on "Pull Request".
+
+
+2.3. Fix the project's orthographic error.
+2.4. Click on "Propose file change" until the end.
